@@ -6,4 +6,4 @@
 
 💬 Ask me if you need any help
 
-[![rbourgea's 42 stats](https://badge42.herokuapp.com/api/stats/rbourgea)](https://github.com/krolhm)
+[![rbourgea's 42 stats](https://badge42.herokuapp.com/api/stats/rbourgea?privacyEmail=true)](https://github.com/krolhm)
