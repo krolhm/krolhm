@@ -2,7 +2,7 @@
 
 🔭 I'm currently on my plans for school 42
 
-🌱 I am improving my knowledge in C ++
+💾 I recode the containers of the stl in C ++
 
 💬 Ask me if you need any help
 
