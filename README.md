@@ -2,7 +2,7 @@
 
 🔭 I'm currently on my plans for school 42
 
-💾 I recode the containers of the stl in C ++
+💾 I code my own web server HTTP in C++
 
 💬 Ask me if you need any help
 
