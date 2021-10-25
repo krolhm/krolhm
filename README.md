@@ -2,7 +2,7 @@
 
 🔭 I'm currently on my plans for school 42
 
-💾 I code my own web server HTTP in C++
+💾 My personal projects: [Mini Blockchain](https://github.com/krolhm/blockchain)
 
 💬 Ask me if you need any help
 
