@@ -2,7 +2,7 @@
 
 🔭 I'm currently on my plans for school 42
 
-💾 My personal projects: [Mini Blockchain](https://github.com/krolhm/blockchain)
+💾 My personal projects: [Mini Blockchain](https://github.com/krolhm/blockchain), [Mini OS](https://github.com/krolhm/rbOS)
 
 💬 Ask me if you need any help
 
