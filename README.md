@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋🏻
 
-🔭 I'm currently on my plans for school 42
+🔭 I'm currently on my plans for [school 42](https://42.fr/)
+
+👾 I'm the president of [42GamDev](https://42gamedev.fr/), a Club of [school 42](https://42.fr/)
 
 💾 My personal projects: [Mini Blockchain](https://github.com/krolhm/blockchain), [Mini OS](https://github.com/krolhm/rbOS)
 
