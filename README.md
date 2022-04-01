@@ -10,7 +10,7 @@
 
 📫 How to reach me: rbourgea@student.42.fr
 
-[![rbourgea's 42 stats](https://badge42.herokuapp.com/api/stats/rbourgea?privacyEmail=true)](https://github.com/krolhm)
+<!--[![rbourgea's 42 stats](https://badge42.herokuapp.com/api/stats/rbourgea?privacyEmail=true)](https://github.com/rbourgeat)-->
 
 <img src="https://github-readme-stats.vercel.app/api?username=rbourgeat&count_private=true&show_icons=true&theme=jolly">
 
