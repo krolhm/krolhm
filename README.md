@@ -10,7 +10,7 @@
 
 📫 How to reach me: rbourgea@student.42.fr
 
-<!--[![rbourgea's 42 stats](https://badge42.vercel.app/api/v2/cl1p23amy001109i6oymavshb/stats)](https://github.com/JaeSeoKim/badge42)-->
+[![rbourgea's 42 stats](https://badge42.vercel.app/api/v2/cl2vuzbnt001109icb9nsjp96/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
 <img src="https://github-readme-stats.vercel.app/api?username=rbourgeat&count_private=true&show_icons=true&theme=jolly">
 
