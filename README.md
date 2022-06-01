@@ -1,4 +1,4 @@
-<h1>Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
+<h1>Hi there 👋🏻</h1>
 
 🔭 I'm currently on my plans for [school 42](https://42.fr/)
 
