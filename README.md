@@ -4,11 +4,9 @@
 
 👾 I'm the president of [42GamDev](https://42gamedev.fr/), a Club of [school 42](https://42.fr/)
 
-💾 My personal projects: [Mini Blockchain](https://github.com/krolhm/blockchain), [Mini OS](https://github.com/krolhm/rbOS)
-
 💬 Ask me if you need any help
 
-📫 How to reach me: rbourgea@student.42.fr
+📫 How to reach me: rbourgea@student.42.fr or president@42gamedev.fr
 
 [![rbourgea's 42 stats](https://badge42.vercel.app/api/v2/cl2vuzbnt001109icb9nsjp96/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
 
