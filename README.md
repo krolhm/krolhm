@@ -1,5 +1,7 @@
 <h1>Hi there 👋🏻</h1>
 
+![](https://komarev.com/ghpvc/?username=rbourgeat)
+
 🔭 I'm currently on my plans for [school 42](https://42.fr/)
 
 👾 I'm the president of [42GamDev](https://42gamedev.fr/), a Club of [school 42](https://42.fr/)
@@ -8,8 +10,8 @@
 
 📫 How to reach me: rbourgea@student.42.fr or president@42gamedev.fr
 
-[![rbourgea's 42 stats](https://badge42.vercel.app/api/v2/cl2vuzbnt001109icb9nsjp96/stats?cursusId=21&coalitionId=48)](https://github.com/JaeSeoKim/badge42)
+<p align="center">
+   <img align="center" src="https://badge42.vercel.app/api/v2/cl2vuzbnt001109icb9nsjp96/stats?cursusId=21&coalitionId=48"/><br><br>
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rbourgeat&theme=tokyonight&mode=weekly"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rbourgeat&count_private=true&show_icons=true&theme=jolly">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbourgeat&layout=compact&theme=jolly">
