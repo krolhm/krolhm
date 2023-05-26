@@ -1,6 +1,7 @@
 <h1>Hi there 👋🏻</h1>
 
 ![](https://komarev.com/ghpvc/?username=rbourgeat)
+[![LinkedIn: rbourgeat](https://img.shields.io/badge/-Raphaël%20Bourgeat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rbourgeat/)](https://www.linkedin.com/in/rbourgeat/)
 
 🔭 I'm currently on my plans for [school 42](https://42.fr/)
 
