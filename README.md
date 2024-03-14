@@ -6,7 +6,8 @@
 
 | Skills | Projects |
 | --- | --- |
-| ![Python](https://img.icons8.com/?size=42&id=13441) ![JS](https://img.icons8.com/?size=42&id=108784) ![Docker](https://img.icons8.com/?size=42&id=cdYUlRaag9G9) | [Role play app using llm & diffusion models](https://github.com/rbourgeat/ImpAI) |
+| ![Python](https://img.icons8.com/?size=42&id=13441) ![JS](https://img.icons8.com/?size=42&id=wPohyHO_qO1a) ![Docker](https://img.icons8.com/?size=42&id=cdYUlRaag9G9) | [Role play app using llm & diffusion models](https://github.com/rbourgeat/ImpAI) |
+| ![Python](https://img.icons8.com/?size=42&id=ezj3zaVtImPg) ![JS](https://img.icons8.com/?size=42&id=108784) | [Refactor your code in 1 click (AI Vscode Plugin)](https://github.com/rbourgeat/refacto) |
 | ![Cpp](https://img.icons8.com/?size=42&id=40669) ![Solidity](https://img.icons8.com/?size=42&id=4ntirgeCBoIh) | Custom [Blockchain](https://github.com/rbourgeat/miniBlockchain) and [Smart Contract](https://github.com/rbourgeat/tokenizer) |
 | ![C](https://img.icons8.com/?size=42&id=40670) ![ASM](https://img.icons8.com/?size=42&id=gVK745a4Vaur) | [Kernel from scratch](https://github.com/rbourgeat/kfs-3) |
 | ![C#](https://img.icons8.com/?size=42&id=mhwmyz1eu7T5) ![Unity](https://img.icons8.com/?size=42&id=IPzemd2v4Ubj) | [3D Procedural survival game](https://krolhm.itch.io/heredity) |
