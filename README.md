@@ -2,6 +2,8 @@
 
 👾 Founder of [42GamDev](https://discord.gg/w9KPeC5uYa), a Club of [school 42](https://42.fr/)
 
+📜 Check out [my certificates](https://www.credly.com/users/raphael-bourgeat) !
+
 👨🏼‍💻 Main Projects:
 
 | Skills | Projects |
